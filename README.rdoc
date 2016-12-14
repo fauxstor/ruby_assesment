@@ -16,3 +16,8 @@
 
 - What were your overall thoughts on this assessment?
 
+- What is your name?
+
+- What is your quest?
+
+- What is your favorite color?
